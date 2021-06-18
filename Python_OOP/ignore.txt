@@ -1,1 +1,0 @@
-Here are some basic tutorials of object oriented programming in python.
